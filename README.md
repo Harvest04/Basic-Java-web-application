@@ -1,3 +1,6 @@
+<img width="1915" height="1019" alt="Stud3" src="https://github.com/user-attachments/assets/7d911383-9e8f-4a31-b79d-40b6265b6a94" />
+<img width="1919" height="1019" alt="Stud2" src="https://github.com/user-attachments/assets/625e40e2-cfa0-409c-8394-584d2494f053" />
+<img width="1919" height="1079" alt="Stud1" src="https://github.com/user-attachments/assets/9f13e81f-4696-4f4a-8458-31780a879113" />
 # 🧑‍💻 Student Web Application (Umrabulo Session #01 – MS#01)
 
 **Module:** INT316D – Internet Programming  
